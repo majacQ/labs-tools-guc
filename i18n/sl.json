@@ -1,21 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
+			"Eleassar",
 			"Janezdrilc"
 		]
 	},
-	"title": "Globalni uporabnikovi prispevki",
-	"description": "Prikaz uporabnikovih prispevkov vseh Wikimedijinih wikijev.",
+	"title": "Uporabnikovi globalni prispevki",
+	"description": "Prikaz uporabnikovih prispevkov v vseh vikijih Wikimedie.",
 	"form-user": "IP naslov ali uporabniško ime",
 	"form-isPrefixPattern": "Omogoči iskanje po predponi",
-	"form-from": "Vključi rezultate iz",
+	"form-from": "Vključi zadetke iz",
 	"form-from-all": "Vsi prispevki",
 	"form-from-rc": "Samo zadnje spremembe (zadnjih 30 dni)",
 	"form-from-hr": "Samo zadnja ura",
-	"form-sort": "Razvrsti rezultate",
-	"form-sort-wiki": "Po wikiju",
+	"form-sort": "Razvrsti zadetke",
+	"form-sort-wiki": "Po vikiju",
 	"form-sort-date": "Po datumu",
 	"form-submit": "Išči",
-	"results-limited": "Omejeno na $1 rezultatov na wiki.",
-	"results-lag-warning": "Rezultati morda ne vključujejo najnovejših urejanj. Podvajanje podatkov za Orodja je trenutno v zaostanku. Glej [https://tools.wmflabs.org/replag/ Zaostajanje podvajanj]."
+	"ipinfo-globalblock": "blokiraj globalno",
+	"ipinfo-globalblocklist": "seznam globalnih blokiranj",
+	"results-limited": "Omejeno na $1 zadetkov na viki.",
+	"results-lag-warning": "Zadetki morda ne vključujejo najnovejših urejanj. Podvajanje podatkov za Orodja je trenutno v zaostanku. Glej [https://tools.wmflabs.org/replag/ Zaostajanje podvajanj]."
 }

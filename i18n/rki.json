@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cakkaparla",
+			"Tejoebāsa",
+			"YaThaWinTha"
+		]
+	},
+	"description": "Wikimedia wiki တိအားလုံးက သုံးစွဲသူများ၏ ပံ့ပိုးမှုတိကို ပြသပါ။",
+	"form-user": "IP လိပ်စာ ယင်းသို့မဟုတ် အသုံးပြုသူနာမည်",
+	"form-isPrefixPattern": "ရှိဆက် ရှာဖွီမှုကို ဖွင့်ပါ",
+	"form-from": "ပါဝင်ရေ အဖြေရလဒ်တိက",
+	"form-from-all": "ထောက်ပံ့မှုတိကို အားလုံး",
+	"form-from-rc": "လောလောဆီ အပြောင်းအလဲများရေ (ပြီးခရေ ရက် 30)",
+	"form-from-hr": "နောက်ဆုံးနာရီယာ",
+	"form-sort": "ရလဒ်တိကို စီပါ",
+	"form-sort-wiki": "ဝီကီက",
+	"form-sort-date": "ရက်စွဲအလိုက်",
+	"form-submit": "ရှာဖွီပါ",
+	"ipinfo-globalblock": "တစ်ကမ္ဘာလုံး ပိတ်ထား",
+	"ipinfo-globalblocklist": "ကမ္ဘာလုံးဆိုင်ရာပိတ်ထားစရင်း",
+	"results-limited": "wiki တစ်ခုစီ ရလဒ်တိကို $1 ကန့်သတ်ထားရေ။",
+	"results-lag-warning": "ရလဒ်တိက လောလောဆီ တီးဖြတ်မှုတိ ပျောက်ဆုံးနီနိုင်ရေ။  Tools အတွက် ဒေတာဘေ့စ်ပုံတူတိက လက်ဟိန့်မှာ နောက်ကျနီပါရေ။  [https://tools.wmflabs.org/replag/ Replag] ကိုကြည့်ပါ။"
+}
